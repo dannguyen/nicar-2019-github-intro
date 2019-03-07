@@ -13,8 +13,8 @@ build:
 	Rscript build.R _build/all.md
 
 stage:
-	mkdir -p presents
-	cp -r _build/index.html presents/
-	cp -r _build/index_files presents/
+	mkdir -p docs
+	cp -r _build/index.html docs/
+	cp -r _build/index_files docs/
 
 
