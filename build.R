@@ -5,4 +5,5 @@ inFile = commandArgs(trailingOnly=TRUE)[1]
 
 rmarkdown::render(inFile
                    , output_format = "xaringan::moon_reader"
-                   , output_file = 'index.html')
+                   , output_file = 'slides.html')
+
