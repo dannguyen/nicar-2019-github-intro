@@ -1,4 +1,0 @@
-# How Journalists Use Github
-
-
----

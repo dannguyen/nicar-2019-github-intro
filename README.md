@@ -3,6 +3,11 @@
 by [Dan Nguyen @dancow](//twitter.com/dancow)
 
 
+temp reference: [src/tempindex.md](src/tempindex.md)
+
+
+## note this stuff is broken
+
 See it as a [slideshow](//dannguyen.github.com/nicar-2019-github-intro/slides.html)
 
 Or as a single [webpage (Markdown)](docs/index.md)

@@ -5,15 +5,6 @@ date: March 7, 2019
 ---
 
 
-<!--ts-->
-<!--te-->
-
-
-
-# What is Github
-
-- Fun
-- Really fun
-
-
 ---
+
+
