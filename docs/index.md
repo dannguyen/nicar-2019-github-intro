@@ -8,7 +8,8 @@ date: March 7, 2019
 <!--ts-->
    * [What is Github](#what-is-github)
    * [Why Github](#why-github)
-   * [How Real-World Journalists Using Github](#how-real-world-journalists-using-github)
+   * [How Journalists Use Github](#how-journalists-use-github)
+      * [One-off Show-and-Tell: TheUpshot/leo-senate-model](#one-off-show-and-tell-theupshotleo-senate-model)
       * [fivethirtyeight/data](#fivethirtyeightdata)
    * [WaPo's data repo for "Fatal Force"](#wapos-data-repo-for-fatal-force)
    * [Example: Trying out an Amazon voice-to-text API on web video](#example-trying-out-an-amazon-voice-to-text-api-on-web-video)
@@ -35,7 +36,38 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis minima at aliq
 ![image tweet-joshua_eaton.jpg](images/tweet-joshua_eaton.jpg)
 
 ---
-# How Real-World Journalists Using Github
+# How Journalists Use Github
+
+
+---
+## One-off Show-and-Tell: TheUpshot/leo-senate-model
+
+NYT Feature: [Who Will Win The Senate](http://web.archive.org/web/20140423110853/http://www.nytimes.com/newsgraphics/2014/senate-model/)
+
+![image upshot-header.png](images/upshot-header.png)
+
+
+<img src="images/upshot-state-charts.png" alt="upshot-state-charts.png">
+
+???
+
+Original URL: 
+
+Screenshot comes from Internet Archive snapshot:
+http://web.archive.org/web/20140423110853/http://www.nytimes.com/newsgraphics/2014/senate-model/
+
+
+
+---
+
+
+
+The Github repo is here: 
+
+https://github.com/TheUpshot/leo-senate-model
+
+
+---
 ## fivethirtyeight/data
 
 Data and code behind the articles and graphics at FiveThirtyEight https://data.fivethirtyeight.com/

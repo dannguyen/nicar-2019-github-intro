@@ -1,1 +1,4 @@
-# How Real-World Journalists Using Github
+# How Journalists Use Github
+
+
+---
